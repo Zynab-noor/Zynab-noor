@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Zynab-noor
-- 👀 I’m interested in Creative Work
-- 🌱 I’m currently learning Flutter Development and Web Development 
-- 🎓 Graduating in Computer Science  
+- 👀 I love to do: 
+-         Creative Writting 
+-         Graphic Designing
+-         Front-End Web Development
+- 🌱 I’m currently learning Back-End of Web Development 
+- 🎓 Graduating in Computer Science
+- 💼 Working at GCWUF as internee
+- 💼 Freelancer at Fiverr, SnapHunt, Freelancer.com
 - 🗺 Faisalabad, Punjab, Pakistan
 - 📧 zainabn307@hotmail.com
 
